@@ -237,3 +237,13 @@ font-family: 'Helvetica', sans-serif;
     width:100%;
     display: block;
   }
+
+
+  /* Adjust for screen sizes */
+  html, body{
+    position: fixed;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
