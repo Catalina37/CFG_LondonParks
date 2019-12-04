@@ -133,7 +133,7 @@ font-family: 'Helvetica', sans-serif;
   border: 2px solid black;
   padding:18px;
   margin: 6px;
-  display: block;
+  display: flex;
   justify-content: center;
   text-align: center;
 }
