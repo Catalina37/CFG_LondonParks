@@ -229,7 +229,10 @@ font-family: 'Helvetica', sans-serif;
   
   .footer{background-color:black;
     color: rgb(255, 255, 255);
-    position: relative;
+    position: fixed;
     text-align: center;
-    padding: 1px;
-    margin: 5px;}
+    padding: 0px;
+    margin: 0px;
+    bottom: 0px;
+    width:100%;
+  }
