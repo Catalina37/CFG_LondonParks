@@ -133,7 +133,7 @@ font-family: 'Helvetica', sans-serif;
   border: 2px solid black;
   padding:18px;
   margin: 6px;
-  display: flex;
+  display: block;
   justify-content: center;
   text-align: center;
 }
@@ -235,4 +235,5 @@ font-family: 'Helvetica', sans-serif;
     margin: 0px;
     bottom: 0px;
     width:100%;
+    display: block;
   }
